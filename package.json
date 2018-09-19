@@ -1,0 +1,19 @@
+{
+  "name": "background_generator",
+  "version": "1.0.0",
+  "description": "An app to show background color.\r It is called background generator!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consDev/background_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/consDev/background_generator/issues"
+  },
+  "homepage": "https://github.com/consDev/background_generator#readme"
+}
